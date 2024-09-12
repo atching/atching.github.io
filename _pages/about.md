@@ -19,7 +19,7 @@ I have a M.S. in Computer Science from the University of Washington with my rese
 Teaching
 ------
 I have been a teaching assistant for the following University of Washington courses:
-*CSE475 - Embedded Systems Capstone (AUT22, AUT23, AUT24)
+*CSE475 - Embedded Systems Capstone (AUT22, AUT23, AUT234)
 *CSE461 - Computer Networking (WIN24)
 *CSE474 - Introduction to Embedded Systems (SPR24)
 *EE443  - Signal Processing Capstone (WIN14)
