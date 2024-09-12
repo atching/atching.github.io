@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+About Me
+------
 I am currently a PhD Student in the Ubiqitous Computing at the Unversity of Washington Paul G. Allen School of Computer Science. My research interests are at the intersection of sensing, wearable technology, and machine learning with a focus on health and biosignals. I build novel low power systems to collect sensor data and use signal processing and machine learning to extract usable information. Previously, I spent 10 years working in groups primarily doing work in next generation AR/VR research and development. You can find more details in the Research tab.
 
 Professional Experience
@@ -19,7 +22,7 @@ I have a M.S. in Computer Science from the University of Washington with my rese
 Teaching
 ------
 I have been a teaching assistant for the following University of Washington courses:
-* CSE475 - Embedded Systems Capstone (AUT22, AUT23, AUT234)
+* CSE475 - Embedded Systems Capstone (AUT22, AUT23, AUT24)
 * CSE461 - Computer Networking (WIN24)
 * CSE474 - Introduction to Embedded Systems (SPR24)
 * EE443  - Signal Processing Capstone (WIN14)
