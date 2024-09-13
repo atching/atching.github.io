@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Me
-------
 I am currently a PhD Student in the Ubiqitous Computing at the Unversity of Washington Paul G. Allen School of Computer Science. My research interests are at the intersection of sensing, wearable technology, and machine learning with a focus on health and biosignals. I build novel low power systems to collect sensor data and use signal processing and machine learning to extract usable information. Previously, I spent 10 years working in groups primarily doing work in next generation AR/VR research and development. You can find more details in the Research tab.
 
 Professional Experience
