@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD Student in the Ubiqitous Computing at the Unversity of Washington Paul G. Allen School of Computer Science. My research interests are at the intersection of sensing, wearable technology, and machine learning with a focus on health and biosignals. I build novel low power systems to collect sensor data and use signal processing and machine learning to extract usable information. Previously, I spent 10 years working in groups primarily doing work in next generation AR/VR research and development. You can find more details in the Research tab.
+I am currently a PhD Student in the Ubiqitous Computing at the Unversity of Washington Paul G. Allen School of Computer Science. My research interests are at the intersection of sensing, wearable technology, and machine learning with a focus on health and biosignals. I build novel low power systems to collect sensor data and use signal processing and machine learning to extract usable information. Previously, I spent 10 years working in groups primarily doing work in next generation AR/VR research and development and have extensive hardware prototyping experience.
 
 Professional Experience
 ------
-Prior to coming back to the UW full time in Fall 2023, I was a full time hardware/research engineer in industry for 10 years having worked at Valve, Microsoft Research, Magic Leap, Microsoft Mixed Reality, and most recently as a Senior Electrical Engineer at Meta Reality Labs Research. I have previously interned in technical roles at NASA Ames Research Center (ARC), Intellectual Ventures Lab, Cisco Systems, and Ball Aerospace. During my undergrad, I participated in the Human Powered Submarine Team and also participated in a zero gravity flight with NASA as part of the Microgravity University.
+Prior to coming back to the UW full time in Fall 2023, I was a full time hardware/research engineer in industry having worked at Valve, Microsoft Research, Magic Leap, Microsoft Mixed Reality, and most recently as a Senior Electrical Engineer at Meta Reality Labs Research. I have previously interned in technical roles at NASA Ames Research Center (ARC), Intellectual Ventures Lab, Cisco Systems, and Ball Aerospace. During my undergrad, I participated in the Human Powered Submarine Team and also participated in a zero gravity flight with NASA as part of the Microgravity University.
 
 Education
 ------
