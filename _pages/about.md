@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Seattle, WA</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,4 +29,4 @@ I am currently a PhD Student at the Unversity of Washington Paul G. Allen School
 
 Prior to returning to grad school, I spent 10 years working as a full time engineer in industry, having worked at Meta Reality Labs, Microsoft, Magic Leap, Microsoft Research, and Valve. During my time as a student, I was fortunate to have internships at Samsung Research, Ball Aerospace, Cisco Systems, Intellectual Ventures Lab, and NASA Ames Research Center. I hold a M.S. in Computer Science, B.S. in Mechanical Engineering, and B.S. in Electrical Engineering.
 
-Outside of work I enjoy travelling, having visited over two dozen countries, and photography. You can check out
+Outside of work I enjoy travelling, having visited over two dozen countries, and photography.
