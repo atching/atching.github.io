@@ -2,14 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: true
-nav_order: 6
+description: Resources for classes taught.
+nav: false
+nav_order: 4
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+I have been the Teaching Assistant for several courses in CSE and ECE.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+* CSE475 - Embedded Systems Capstone (AUT22, AUT23, AUT24, SPR25, AUT25, AUT26)
+* CSE461 - Computer Networking (WIN24)
+* CSE474 - Introduction to Embedded Systems (SPR24)
+* EE443  - Signal Processing Capstone (WIN14)
 
-{% include courses.liquid %}
+I wrote a guide to Embedded Hardware Design for undergrads that you can find [here]({{ '/assets/pdf/Intro_to_Embedded_Hardware.pdf' | relative_url }}).
+
+<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+
+{% include courses.liquid %} -->

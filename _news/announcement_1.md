@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Excited to have our workshop, [Health Centric Wearable Devices in the Age of Physical AI](https://health-wearables-ubicomp.github.io/), accepted to Ubicomp 2026. Hope to see folks there!

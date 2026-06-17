@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Tuberculosis Audio Classification
+description: Working towards classification of tuberculosis infection status using audio cues.
 img:
 importance: 3
 category: fun
