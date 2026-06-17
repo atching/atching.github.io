@@ -3,99 +3,95 @@
     "name": "Alex Ching",
     "label": "PhD Student",
     "email": "atching [at] cs.washington.edu",
-    "location": {
-      "city": "Seattle",
-      "region": "WA"
-    },
-    "image": "",
+    "location": "Seattle, WA",
     "summary": "Interested in sensing pipelines, applied ML/AI with applications in on-body sensing, wearables, health, and hardware design."
   },
   "work": [
     {
-      "name": "Samsung Research America",
+      "company": "Samsung Research America",
       "position": "Research Intern",
       "location": "Plano, TX",
-      "startDate": "2025-06",
-      "endDate": "2025-09",
+      "start_date": "2025-06",
+      "end_date": "2025-09",
       "summary": "Next-Gen Connectivity & Sensing Research"
     },
     {
-      "name": "Meta Reality Labs",
+      "company": "Meta Reality Labs",
       "position": "Senior Electrical Engineer",
       "location": "Redmond, WA",
-      "startDate": "2022-01",
-      "endDate": "2023-10",
+      "start_date": "2022-01",
+      "end_date": "2023-10",
       "summary": "Display Systems Research"
     },
     {
-      "name": "Microsoft",
+      "company": "Microsoft",
       "position": "Electrical Engineer II",
       "location": "Redmond, WA",
-      "startDate": "2019-12",
-      "endDate": "2022-01",
+      "start_date": "2019-12",
+      "end_date": "2022-01",
       "summary": "Display Systems Research"
     },
     {
-      "name": "On A Camel's Back",
+      "company": "On A Camel's Back",
       "position": "Travel Photographer",
       "location": "World Wide",
-      "startDate": "2019-06",
-      "endDate": "2019-12"
+      "start_date": "2019-06",
+      "end_date": "2019-12"
     },
     {
-      "name": "Magic Leap",
+      "company": "Magic Leap",
       "position": "Lead Research Engineer",
       "location": "Seattle, WA",
-      "startDate": "2016-10",
-      "endDate": "2019-05",
+      "start_date": "2016-10",
+      "end_date": "2019-05",
       "summary": "Advanced Technologies"
     },
     {
-      "name": "Microsoft Research",
+      "company": "Microsoft Research",
       "position": "Electrical Engineer I",
       "location": "Redmond, WA",
-      "startDate": "2015-02",
-      "endDate": "2016-09",
+      "start_date": "2015-02",
+      "end_date": "2016-09",
       "summary": "Hardware Lab"
     },
     {
-      "name": "Valve",
+      "company": "Valve",
       "position": "Hardware Engineer Contractor",
-      "location": "Redmond, WA",
-      "startDate": "2014-03",
-      "endDate": "2015-01",
+      "location": "Bellevue, WA",
+      "start_date": "2014-03",
+      "end_date": "2015-01",
       "summary": "VR Team"
     },
     {
-      "name": "Ball Aerospace",
+      "company": "Ball Aerospace",
       "position": "Systems Engineering Intern",
       "location": "Boulder, CO",
-      "startDate": "2012-06",
-      "endDate": "2012-08",
+      "start_date": "2012-06",
+      "end_date": "2012-08",
       "summary": "Global Precipitation Measurement Microwave Imager"
     },
     {
-      "name": "Cisco Systems",
+      "company": "Cisco Systems",
       "position": "Hardware Test Engineering Co-Op",
       "location": "San Jose, CA",
-      "startDate": "2012-01",
-      "endDate": "2012-06",
+      "start_date": "2012-01",
+      "end_date": "2012-06",
       "summary": "Cable Modem Termination Systems"
     },
     {
-      "name": "Intellectual Ventures Lab",
+      "company": "Intellectual Ventures Lab",
       "position": "Intern",
       "location": "Bellevue, WA",
-      "startDate": "2011-06",
-      "endDate": "2011-09",
+      "start_date": "2011-06",
+      "end_date": "2011-09",
       "summary": "Photonic Fence"
     },
     {
-      "name": "NASA Ames Research Center",
+      "company": "NASA Ames Research Center",
       "position": "INSPIRE Intern",
       "location": "Moffett Field, CA",
-      "startDate": "2009-06",
-      "endDate": "2009-09",
+      "start_date": "2009-06",
+      "end_date": "2009-09",
       "summary": "NASA Technology Transfer System"
     }
   ],
@@ -106,7 +102,7 @@
       "url": "https://www.washington.edu",
       "area": "Computer Science & Engineering",
       "studyType": "PhD",
-      "startDate": "2018"
+      "start_date": 2018
     },
     {
       "institution": "University of Washington",
@@ -114,8 +110,8 @@
       "url": "https://www.washington.edu",
       "area": "Computer Science & Engineering",
       "studyType": "M.S.",
-      "startDate": "2018",
-      "endDate": "2023"
+      "start_date": 2018,
+      "end_date": 2023
     },
     {
       "institution": "University of Washington",
@@ -123,8 +119,8 @@
       "url": "https://www.washington.edu",
       "area": "Electrical Engineering",
       "studyType": "B.S.",
-      "startDate": "2009",
-      "endDate": "2014"
+      "start_date": 2009,
+      "end_date": 2014
     },
     {
       "institution": "University of Washington",
@@ -132,72 +128,42 @@
       "url": "https://www.washington.edu",
       "area": "Computer Science & Engineering",
       "studyType": "B.S.",
-      "startDate": "2009",
-      "endDate": "2014"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "University of Washington",
-      "position": "Pre-Application Mentor Service (PAMS) Mentor",
-      "location": "Seattle",
-      "startDate": "2024",
-      "endDate": "2025",
-      "summary": "Mentoring students applying to the UW CSE department and helping to refine their application materials."
+      "start_date": 2009,
+      "end_date": 2014
     }
   ],
   "skills": [
     {
       "name": "Applied Signal Processing",
       "level": "Master",
-      "keywords": [
-        "Filters",
-        "Time Domain Analysis",
-        "Frequency Domain Analysis",
-        "Physiological Signals"
-      ]
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Filters", "Time Domain Analysis", "Frequency Domain Analysis", "Physiological Signals"]
     },
     {
       "name": "Machine Learning",
       "level": "Master",
-      "keywords": [
-        "Audio",
-        "Time Series",
-        "Health",
-        "Interaction"
-      ]
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Audio", "Time Series", "Health", "Interaction"]
     },
     {
       "name": "Embedded Systems",
       "level": "Master",
-      "keywords": [
-        "Circuits Design",
-        "Mechanical Design",
-        "Firmware",
-        "Wearable Form Factors"
-      ]
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Circuits Design", "Mechanical Design", "Firmware", "Wearable Form Factors"]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "English",
+      "summary": "Native speaker"
     },
     {
-      "language": "Cantonese",
-      "fluency": "Native speaker"
+      "name": "Cantonese",
+      "summary": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Basic"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Photography",
-      "keywords": [
-        "Photography"
-      ]
+      "name": "Spanish",
+      "summary": "Basic"
     }
   ]
 }
