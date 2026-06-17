@@ -3,95 +3,94 @@
     "name": "Alex Ching",
     "label": "PhD Student",
     "email": "atching [at] cs.washington.edu",
-    "location": "Seattle, WA",
     "summary": "Interested in sensing pipelines, applied ML/AI with applications in on-body sensing, wearables, health, and hardware design."
   },
   "work": [
     {
-      "company": "Samsung Research America",
+      "name": "Samsung Research America",
       "position": "Research Intern",
       "location": "Plano, TX",
-      "start_date": "2025-06",
-      "end_date": "2025-09",
+      "startDate": "2025.06",
+      "endDate": "2025.09",
       "summary": "Next-Gen Connectivity & Sensing Research"
     },
     {
-      "company": "Meta Reality Labs",
+      "name": "Meta Reality Labs",
       "position": "Senior Electrical Engineer",
       "location": "Redmond, WA",
-      "start_date": "2022-01",
-      "end_date": "2023-10",
+      "startDate": "2022-01",
+      "endDate": "2023-10",
       "summary": "Display Systems Research"
     },
     {
-      "company": "Microsoft",
+      "name": "Microsoft",
       "position": "Electrical Engineer II",
       "location": "Redmond, WA",
-      "start_date": "2019-12",
-      "end_date": "2022-01",
+      "startDate": "2019-12",
+      "endDate": "2022-01",
       "summary": "Display Systems Research"
     },
     {
-      "company": "On A Camel's Back",
+      "name": "On A Camel's Back",
       "position": "Travel Photographer",
       "location": "World Wide",
-      "start_date": "2019-06",
-      "end_date": "2019-12"
+      "startDate": "2019-06",
+      "endDate": "2019-12"
     },
     {
-      "company": "Magic Leap",
+      "name": "Magic Leap",
       "position": "Lead Research Engineer",
       "location": "Seattle, WA",
-      "start_date": "2016-10",
-      "end_date": "2019-05",
+      "startDate": "2016-10",
+      "endDate": "2019-05",
       "summary": "Advanced Technologies"
     },
     {
-      "company": "Microsoft Research",
+      "name": "Microsoft Research",
       "position": "Electrical Engineer I",
       "location": "Redmond, WA",
-      "start_date": "2015-02",
-      "end_date": "2016-09",
+      "startDate": "2015-02",
+      "endDate": "2016-09",
       "summary": "Hardware Lab"
     },
     {
-      "company": "Valve",
+      "name": "Valve",
       "position": "Hardware Engineer Contractor",
       "location": "Bellevue, WA",
-      "start_date": "2014-03",
-      "end_date": "2015-01",
+      "startDate": "2014-03",
+      "endDate": "2015-01",
       "summary": "VR Team"
     },
     {
-      "company": "Ball Aerospace",
+      "name": "Ball Aerospace",
       "position": "Systems Engineering Intern",
       "location": "Boulder, CO",
-      "start_date": "2012-06",
-      "end_date": "2012-08",
+      "startDate": "2012-06",
+      "endDate": "2012-08",
       "summary": "Global Precipitation Measurement Microwave Imager"
     },
     {
-      "company": "Cisco Systems",
+      "name": "Cisco Systems",
       "position": "Hardware Test Engineering Co-Op",
       "location": "San Jose, CA",
-      "start_date": "2012-01",
-      "end_date": "2012-06",
+      "startDate": "2012-01",
+      "endDate": "2012-06",
       "summary": "Cable Modem Termination Systems"
     },
     {
-      "company": "Intellectual Ventures Lab",
+      "name": "Intellectual Ventures Lab",
       "position": "Intern",
       "location": "Bellevue, WA",
-      "start_date": "2011-06",
-      "end_date": "2011-09",
+      "startDate": "2011-06",
+      "endDate": "2011-09",
       "summary": "Photonic Fence"
     },
     {
-      "company": "NASA Ames Research Center",
+      "name": "NASA Ames Research Center",
       "position": "INSPIRE Intern",
       "location": "Moffett Field, CA",
-      "start_date": "2009-06",
-      "end_date": "2009-09",
+      "startDate": "2009-06",
+      "endDate": "2009-09",
       "summary": "NASA Technology Transfer System"
     }
   ],
@@ -102,7 +101,7 @@
       "url": "https://www.washington.edu",
       "area": "Computer Science & Engineering",
       "studyType": "PhD",
-      "start_date": 2018
+      "startDate": 2018
     },
     {
       "institution": "University of Washington",
@@ -110,8 +109,8 @@
       "url": "https://www.washington.edu",
       "area": "Computer Science & Engineering",
       "studyType": "M.S.",
-      "start_date": 2018,
-      "end_date": 2023
+      "startDate": 2018,
+      "endDate": 2023
     },
     {
       "institution": "University of Washington",
@@ -119,8 +118,8 @@
       "url": "https://www.washington.edu",
       "area": "Electrical Engineering",
       "studyType": "B.S.",
-      "start_date": 2009,
-      "end_date": 2014
+      "startDate": 2009,
+      "endDate": 2014
     },
     {
       "institution": "University of Washington",
@@ -128,8 +127,8 @@
       "url": "https://www.washington.edu",
       "area": "Computer Science & Engineering",
       "studyType": "B.S.",
-      "start_date": 2009,
-      "end_date": 2014
+      "startDate": 2009,
+      "endDate": 2014
     }
   ],
   "skills": [
@@ -137,19 +136,34 @@
       "name": "Applied Signal Processing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Filters", "Time Domain Analysis", "Frequency Domain Analysis", "Physiological Signals"]
+      "keywords": [
+        "Filters", 
+        "Time Domain Analysis",
+        "Frequency Domain Analysis",
+        "Physiological Signals"
+      ]
     },
     {
       "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Audio", "Time Series", "Health", "Interaction"]
+      "keywords": [
+        "Audio",
+        "Time Series",
+        "Health",
+        "Interaction"
+      ]
     },
     {
       "name": "Embedded Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Circuits Design", "Mechanical Design", "Firmware", "Wearable Form Factors"]
+      "keywords": [
+        "Circuits Design",
+        "Mechanical Design",
+        "Firmware",
+        "Wearable Form Factors"
+      ]
     }
   ],
   "languages": [
