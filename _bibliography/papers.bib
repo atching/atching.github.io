@@ -1,23 +1,22 @@
 ---
 ---
 
-@inproceedings{10.1145/3588432.3591534,
-  author = {Kuo, Grace and Penner, Eric and Moczydlowski, Seth and Ching, Alexander and Lanman, Douglas and Matsuda, Nathan},
-  title = {Perspective-Correct VR Passthrough Without Reprojection},
-  year = {2023},
-  isbn = {9798400701597},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3588432.3591534},
-  doi = {10.1145/3588432.3591534},
-  abstract = {Virtual reality (VR) passthrough uses external cameras on the front of a headset to allow the user to see their environment. However, passthrough cameras cannot physically be co-located with the user’s eyes, so the passthrough images have a different perspective than what the user would see without the headset. Although the images can be computationally reprojected into the desired view, errors in depth estimation, view-dependent effects, and missing information at occlusion boundaries can lead to undesirable artifacts. We propose a novel computational camera that directly samples the rays that would have gone into the user’s eye, several centimeters behind the sensor. Our design contains an array of lenses with an aperture behind each lens, and the apertures are strategically placed to allow through only the desired rays. The resulting thin, flat architecture has suitable form factor for VR, and the image reconstruction is computationally lightweight, enabling low-latency passthrough. We demonstrate our approach experimentally in a fully functional binocular passthrough prototype with practical calibration and real-time image reconstruction. Finally, we experimentally validate that our camera captures the correct perspective for VR passthrough, even in the presence of transparent objects, specular highlights, and complex occluding structures.},
+@inproceedings{kuo2023perspective,
+  author    = {Kuo, Grace and Penner, Eric and Moczydlowski, Seth and Ching, Alexander and Lanman, Douglas and Matsuda, Nathan},
+  title     = {Perspective-Correct VR Passthrough Without Reprojection},
   booktitle = {ACM SIGGRAPH 2023 Conference Proceedings},
+  year      = {2023},
+  isbn      = {9798400701597},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {https://doi.org/10.1145/3588432.3591534},
+  doi       = {10.1145/3588432.3591534},
   articleno = {15},
-  numpages = {9},
-  keywords = {light field, passthrough, virtual reality},
-  location = {Los Angeles, CA, USA},
-  series = {SIGGRAPH '23}
-  preview = {flamera.webp}
+  numpages  = {9},
+  keywords  = {light field, passthrough, virtual reality},
+  location  = {Los Angeles, CA, USA},
+  series    = {SIGGRAPH '23},
+  preview   = {flamera.webp}
 }
 
 @patent{US10966420B2,
